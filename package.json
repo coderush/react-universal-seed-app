@@ -1,0 +1,15 @@
+{
+  "name": "react-universal-seed",
+  "version": "1.0.0",
+  "description": "React Universal Seed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://coderush@bitbucket.org/coderush/react-universal-seed.git"
+  },
+  "author": "Sumit Ranjan",
+  "license": "ISC"
+}
