@@ -1,14 +1,14 @@
 {
-  "name": "react-universal-seed",
+  "name": "react-universal-starter",
   "version": "1.0.0",
-  "description": "React Universal Seed",
+  "description": "React Universal Starter",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://coderush@bitbucket.org/coderush/react-universal-seed.git"
+    "url": "https://coderush@bitbucket.org/coderush/react-universal-starter.git"
   },
   "author": "Sumit Ranjan",
   "license": "ISC"
